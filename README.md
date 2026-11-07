@@ -6,7 +6,8 @@ My focus is simple architecture, reliable APIs, and software that's easy to main
 
 ## What I work on
 
-- **Backend:** reactive services with Kotlin, Java, and Quarkus.
+- **Go:** concurrent services and APIs with goroutines, contexts, HTTP, and gRPC.
+- **JVM backend:** reactive services with Kotlin, Java, and Quarkus.
 - **Web:** applications with SvelteKit, TypeScript, and Tailwind CSS.
 - **AI:** Python services with FastAPI, Pydantic, and structured model outputs.
 - **Distributed systems:** event-driven workflows with NATS JetStream, gRPC, and Temporal.
@@ -15,8 +16,8 @@ My focus is simple architecture, reliable APIs, and software that's easy to main
 
 | Area | Technologies |
 | --- | --- |
-| Languages | Kotlin, Java, TypeScript, Python |
-| Backend & APIs | Quarkus, FastAPI, GraphQL, gRPC |
+| Languages | Go, Kotlin, Java, TypeScript, Python |
+| Backend & APIs | Go net/http, Quarkus, FastAPI, GraphQL, gRPC |
 | Frontend | SvelteKit, Tailwind CSS, Houdini, Bun |
 | Data & messaging | PostgreSQL, Redis, NATS JetStream |
 | Workflows & AI | Temporal, LangChain4j |
