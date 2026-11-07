@@ -1,6 +1,6 @@
 # Hi, I'm Shohruh Ismoilov
 
-I build **TestBor**, working across backend services, web applications, and AI integrations.
+I build backend services, web applications, and AI integrations.
 
 My focus is simple architecture, reliable APIs, and software that's easy to maintain.
 
