@@ -31,5 +31,3 @@ My focus is simple architecture, reliable APIs, and software that's easy to main
 - Define success criteria and verify the result.
 
 ---
-
-[Explore my repositories](https://github.com/shohruh-genius?tab=repositories)
